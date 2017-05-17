@@ -172,7 +172,7 @@
         {
             "description": "SSO Service Location",
             "name": "SSO_SERVICE_URL",
-            "value": "",
+            "value": "https://secure-sso:8443/auth",
             "required": false
         },
         {
