@@ -995,6 +995,10 @@
                                     {
                                         "name": "SSO_DISABLE_SSL_CERTIFICATE_VALIDATION",
                                         "value": "${SSO_DISABLE_SSL_CERTIFICATE_VALIDATION}"
+                                    },
+                                    {
+                                        "name": "SCRIPT_DEBUG",
+                                        "value": "true"
                                     }
                                 ]
                             }
